@@ -3,6 +3,15 @@ Services App - Flutter Service Booking Application
 App Overview
 Your app is a comprehensive service booking platform built with Flutter that allows users to browse, search, and book various professional services. It's designed with a modern, user-friendly interface and integrates Firebase for backend services.
 
+ App Screenshots
+
+### Home Screen
+![Home Screen](docs/media/home.png)
+
+## �� App Demo Video
+
+![App Demo](docs/media/app-demo.mp4)
+
 �� Design & Theme
 
 Primary Color: Purple theme (#6E3EFF) with a modern Material Design 3 aesthetic
