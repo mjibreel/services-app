@@ -83,4 +83,8 @@ Scalable Architecture: Well-structured codebase for future enhancements
 
 
 
+## 👨‍💻 Author
 
+Mohamed Hassan Jibril
+- GitHub: [](https://github.com/mjibreel)
+- LinkedIn: [](www.linkedin.com/in/moh-jibril)
