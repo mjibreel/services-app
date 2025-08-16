@@ -1,0 +1,16 @@
+flutter clean
+flutter pub get
+flutter run
+
+cd android
+./gradlew clean
+cd ..
+flutter pub cache repair
+flutter pub get
+
+
+
+
+cd ios
+open Runner.xcworkspace
+
